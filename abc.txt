@@ -4,3 +4,6 @@ sum  = x * y;
 摁楤杮渠睥琠硥ੴ
 
 added new grom gui
+
+
+addning some news
