@@ -1,8 +1,2 @@
-﻿This is first file
-
-sum  = x * y;
-摁楤杮渠睥琠硥ੴ
-
-added new grom gui
 
 This file is modified in cloud9
