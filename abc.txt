@@ -5,7 +5,4 @@ sum  = x * y;
 
 added new grom gui
 
-
-addning some news
-
-poda ritesh
+This file is modified in cloud9
